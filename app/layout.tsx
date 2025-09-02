@@ -28,6 +28,9 @@ export const metadata: Metadata = {
     title: "おじさん構文変換ツール",
     description: "文章を一瞬でおじさん構文に変換🤣",
   },
+  verification: {
+    google: "tDL2ak-Xk9kVjDvckx5upSJLsv2ca6LRSggCFp2-97Q",
+  },
 };
 
 
